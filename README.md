@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-<!--
+
 **ritikkhatana79020/ritikkhatana79020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am a newbie in the Machine Learning and Data Science field and I love to do Coding/Programming. I am also into open-source contribution.
 Here are some ideas to get you started:
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything. I am happy to help!
 - 📫 How to reach me: khatanaritik2@gmail.com
 - ⚡ Fun fact: Big fan of TMKOC. 
--->
+
