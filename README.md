@@ -1,7 +1,8 @@
 ### Hello 👋
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-I am a newbie in the Machine Learning and Data Science field and I love to do Coding/Programming. I am also into open-source contribution.
+My name is Ritik and I a computer science major that is passionate about learning and teaching programming!
+I love to do Coding. I am also into open-source contribution.
 Here are some more abouot me:
 
 - 🔭 I’m pursuing Btech in Computer Science and Engineering from Bharat Institute of Technology, Meerut.
