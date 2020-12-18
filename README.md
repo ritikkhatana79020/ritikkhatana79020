@@ -1,5 +1,5 @@
 ### Hello world! 👋
-
+![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 I am a newbie in the Machine Learning and Data Science field and I love to do Coding/Programming. I am also into open-source contribution.
 Here are some more abouot me:
