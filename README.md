@@ -1,7 +1,7 @@
 # Hello 👋
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-## My name is Ritik and I a computer science major that is passionate about learning and teaching programming!
+** My name is Ritik and I a computer science major that is passionate about learning and teaching programming!**
 ## I love to do Coding. I am also into open-source contribution.
 ## Here are some more abouot me:
 
