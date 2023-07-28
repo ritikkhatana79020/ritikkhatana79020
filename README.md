@@ -1,13 +1,12 @@
 # Hello 👋
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) 
 
- My name is Ritik and I am a computer science major that is passionate about learning and teaching programming!
- I love to do Coding. I am also going to start open-source contribution.
+ My name is Ritik, a passionate Java developer and open-source enthusiast on a mission to craft elegant solutions to complex problems in the digital world.
  Here are some more about me:
 
- - 🔭 I’m graduated in BTech Computer Science and Engineering from Bharat Institute of Technology, Meerut.
- - 🌱 I’m currently learning tech skills like Web Development and Frameworks.
- - 👯 Working on Web Dev Projects.
+ - 🔭 I’m graduated in BTech Computer Science and Engineering from Bharat Institute of Technology.
+ - 🌱 I’m currently learning tech skills like Blockchain Development.
+ - 👯 Working as a Java backend developer.
  - 💬 Ask me about anything. I am happy to help!
  - 📫 How to reach me: khatanaritik2@gmail.com
  - ⚡ Fun fact: Music is life!!!  
