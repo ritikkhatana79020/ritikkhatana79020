@@ -4,13 +4,11 @@
  My name is Ritik, a passionate Java developer and open-source enthusiast on a mission to craft elegant solutions to complex problems in the digital world.
  Here are some more about me:
 
- - 🔭 I’m graduated in BTech Computer Science and Engineering from Bharat Institute of Technology.
- - 🌱 I’m currently learning tech skills like Blockchain Development.
+ - 🔭 I’m CSE graduated from Bharat Institute of Technology.
+ - 🌱 I’m currently learning backend tech stacks and Blockchain Development.
  - 👯 Working as a Java backend developer.
  - 💬 Ask me about anything. I am happy to help!
  - 📫 How to reach me: khatanaritik2@gmail.com
  - ⚡ Fun fact: Music is life!!!  
   
   ![Loc](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
-
-
